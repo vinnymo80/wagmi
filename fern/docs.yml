@@ -26,6 +26,10 @@ navigation:
       - page: Home
         path: docs/pages/welcome.mdx
         slug: welcome
+      - page: Pricing
+        path: docs/pages/pricing.mdx
+        slug: pricing
+        icon: fa-duotone fa-tag
   - tab: docs
     layout:
       - section: Get started
